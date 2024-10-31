@@ -3,7 +3,7 @@ using System.Diagnostics;
 using thu.Models;
 
 namespace thu.Controllers
-{ //test cai con ...
+{ //test cai con chim non tren canh cay ...
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
